@@ -1,23 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital@1&display=swap');
+
 @font-face {
-  font-family: norse;
-  src: url("/fonts/Norse-Bold.woff");
-  font-weight: 600; }
-@font-face {
-  font-family: norse;
-  src: url("/fonts/Norse-DemiBold.woff");
-  font-weight: 500; }
-@font-face {
-  font-family: norse;
-  src: url("/fonts/Norse-Regular.woff");
-  font-weight: 400; }
-@font-face {
-  font-family: norse;
-  src: url("/fonts/Norse-Light.woff");
-  font-weight: 300; }
-@font-face {
-  font-family: norse;
-  src: url("/fonts/Norse-Thin.woff");
-  font-weight: 200; }
+  font-family: 'Istok Web', sans-serif;}
 [data-tooltip] {
   position: relative;
   z-index: 2;
