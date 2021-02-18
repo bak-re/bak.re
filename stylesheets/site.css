@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Istok Web', sans-serif;}
+  font-family: 'Rubik', sans-serif;}
 [data-tooltip] {
   position: relative;
   z-index: 2;
@@ -481,12 +481,12 @@ nav {
   transition: .5s opacity; }
 
 .row textarea {
-  font-family: 'Istok Web';
+  font-family: 'Rubik';
   resize: vertical; }
 
 body {
   overflow-x: hidden;
-  font-family: 'Istok Web';
+  font-family: 'Rubik';
   background: #f6f3f9;
   font-weight: 500;
   color: #111;
