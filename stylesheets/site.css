@@ -481,12 +481,12 @@ nav {
   transition: .5s opacity; }
 
 .row textarea {
-  font-family: norse;
+  font-family: 'Istok Web';
   resize: vertical; }
 
 body {
   overflow-x: hidden;
-  font-family: norse;
+  font-family: 'Istok Web';
   background: #f6f3f9;
   font-weight: 500;
   color: #111;
